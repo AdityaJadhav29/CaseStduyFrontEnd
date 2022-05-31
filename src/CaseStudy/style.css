@@ -1,0 +1,227 @@
+.Footer {
+  width: 100%;
+  position: absolute;
+  background-color: skyblue;
+  bottom: 0;
+  text-align: center;
+}
+
+#logo {
+  height: 8vh;
+  float: left;
+}
+
+.inputtext {
+  display: block;
+  margin: 20px;
+  padding: 4px;
+  width: 300px;
+  margin-left: 10%;
+}
+
+.btn-signup {
+  margin: 2px;
+  padding: 10px;
+  width: 100px;
+  background-color: rgb(25, 97, 204);
+  ;
+  border: 1px solid;
+  cursor: pointer;
+  padding-left: 40%;
+
+  border-radius: 4px;
+  background: #000000;
+  padding: 10px 2px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  margin-left: -2.5%;
+
+}
+
+.btn-signup:hover {
+  transition: all 0.2s ease-in-out;
+  background: #256ce1;
+  color: #ffffff;
+}
+
+.registrationForm {
+  padding-top: 7%;
+
+}
+
+
+.maincontainer {
+  background-image: url('/public/sign-in-image.jpg');
+  background-position: 'center';
+  background-size: 'cover';
+  background-Repeat: 'no-repeat';
+  height: 100%;
+}
+
+input[type=text],
+input[type=password],
+input[type=date],
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 400px;
+  padding: 10px;
+  position: absolute;
+  left: 37%;
+  top: 25%;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 253, 253, 0.5);
+  box-shadow: 0px 0px 20px 10px rgb(143, 143, 147);
+}
+
+#label {
+  display: inline;
+}
+
+.contactUsForm>div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 500px;
+  text-align: left;
+  padding-left: 22%;
+}
+
+.contactUsForm {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+}
+
+.inputtext2 {
+  display: block;
+  margin: 20px;
+  padding: 4px;
+  margin-top: -470px;
+  width: 300px;
+  margin-left: 35%;
+}
+
+.btn-assessment {
+  margin-top: 380px;
+  margin-left: -0%;
+
+  padding: 10px;
+  width: 100px;
+  background-color: rgb(25, 97, 204);
+  ;
+  border: 1px solid;
+  cursor: pointer;
+
+  border-radius: 4px;
+  background: #000000;
+  padding: 10px 2px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+}
+
+.btn-assessment:hover {
+  transition: all 0.2s ease-in-out;
+  background: #256ce1;
+  color: #ffffff;
+}
+
+.proinputtext {
+  display: block;
+  margin: 20px;
+  padding: 4px;
+  width: 300px;
+  margin-left: 5%;
+  margin-top: 95px;
+}
+
+.proinputtext2 {
+  display: block;
+  margin: 20px;
+  padding: 4px;
+  width: 300px;
+  margin-left: 27%;
+  margin-top: -357px;
+}
+
+.proinputtext3 {
+  display: block;
+  margin: 20px;
+  padding: 4px;
+  width: 300px;
+  margin-left: 50%;
+  margin-top: -357px;
+}
+
+.proinputtext4 {
+  display: block;
+  margin: 20px;
+  padding: 4px;
+  width: 300px;
+  margin-left: 72%;
+  margin-top: -357px;
+}
+
+.btn-profile {
+  margin-top: 140px;
+  margin-left: -0%;
+
+  padding: 10px;
+  width: 100px;
+  background-color: rgb(25, 97, 204);
+  ;
+  border: 1px solid;
+  cursor: pointer;
+
+  border-radius: 4px;
+  background: #000000;
+  padding: 10px 2px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+}
+
+.btn-profile:hover {
+  transition: all 0.2s ease-in-out;
+  background: #256ce1;
+  color: #ffffff;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 15%;
+  height: 300px;
+  right: 3%;
+  top: 130px;
+  display: inline-flex;
+  margin-left: 100px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  
+}
+
+/* Add some padding inside the card container */
+.Profilecontainer {
+  padding: 2px 16px;
+  padding-top: 10%;
+}
+
+#cardimage {
+  width: 90%;
+  padding-left: 10%;
+  padding-top: 10%;
+}
